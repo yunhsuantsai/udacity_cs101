@@ -3,9 +3,9 @@
 # greater of the two inputs.
 
 def bigger(a, b):
-    if b > a:
-        a = b
-    return a
+    if a > b:
+    	return a
+    return b
 
 print (bigger(2, 7))
 print (bigger(3, 2))
