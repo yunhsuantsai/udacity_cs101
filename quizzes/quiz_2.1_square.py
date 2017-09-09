@@ -4,9 +4,6 @@
 # the number by itself).
 # To help you out, the code for sum(a,b) is below.
 
-def sum(a,b):
-    c = a + b
-    return c
 
 def square(x):
     y = x * x
